@@ -1,0 +1,59 @@
+﻿id;chemin (ordinateur « rahim », C:\Users\RAHIM\…);type;caractéristiques;projet;rôle narratif;qualité;certitude attribution;statut;remarque
+S01;Downloads/Portfolio_Ayate_v2_1.pptx;PPTX (11 slides, A4 portrait);12,2 Mo · 29 médias;Tous;Source principale (version la plus récente);Bonne;Certaine;Retenu;"Version postérieure de 40 min à v2 ; textes Cherchell enrichis"
+S02;Downloads/Portfolio_Ayate_v2.pptx;PPTX (11 slides);12,7 Mo;Tous;Version antérieure;—;Certaine;Doublon/obsolète;"Remplacée par v2_1 ; seule différence utile : légende « plan de masse (projet de groupe) »"
+S03;Desktop/memoire PFE 06-2023.pdf;PDF 43 p. (46×21 cm);8,9 Mo · 260 images;02 Cherchell;Source complète : histoire, diagnostic, évaluation, urbain, halle, structure, rendus;Bonne (coupes 3 600 px);Certaine;Retenu — source de vérité P02;Contient la coupe A-A (page PDF 38) et B-B (page PDF 36), absentes du PPTX
+S04;Desktop/Banque_experiences_Abderrahim_AYATE.pdf;PDF 10 p.;86 Ko;Tous;Faits confirmés : cadres, rôles, chiffres;Texte;Certaine;Retenu — référentiel factuel;
+S05;Downloads/CV_MASTER_Abderrahim_AYATE.md;Markdown;10 Ko;Profil;Parcours, logiciels;Texte;Certaine;Retenu avec réserve;Dates Lab’Urba (2024) incohérentes avec la banque (2025)
+S06;Downloads/présentation atelier du 13 mars .pdf;PDF 37 slides (Google Slides);22 Mo · 41 images >1,5 MP;03 Fermes GPS (collectif);Cartes diachroniques, typologies, préconisations, photos;Bonne;Certaine;Retenu sous réserve;Travail collectif : contribution personnelle à préciser
+S07;Downloads/Dossier_ferme_servigny.pdf;PDF 18 p. A4;3,6 Mo · 64 images;03 Ferme de Servigny (individuel);Archives, cadastre 1808, photos, analyse spatiale;Moyenne (docs d’archives);Certaine;Retenu;
+S08;Documents/Présentation15.pptx;PPTX 4 slides;37 Mo;03 Ferme de Servigny;Cartes de localisation France → Lieusaint → ferme;Moyenne (fond Google Earth);Probable;Secondaire;Fonds satellite : droits d’usage à vérifier
+S09;Downloads/Memoire M2 Université Gustave Eiffel.pdf;PDF 69 p. A4;4,1 Mo · 37 images;04 Parc des Hauteurs (recherche);Problématique, méthode (grilles A–D), terrain, conclusions;Texte + photos terrain;Certaine;Retenu (section Recherche);Peu de cartes exploitables
+S10;Downloads/Rapport de stage.pdf;PDF 22 p. A4;1,6 Mo;05 Lab’Urba — Nature Propre;Contexte du stage, base de données, typologie;Texte;Certaine;Secondaire;
+S11;Documents/*.shp, *.gpkg (Parc a visiter, Promenade des hauteurs, Metro 11/7Bis, ZAC, Ecoquartier de l’Eau Vive…);Couches SIG;~30 fichiers;04 Parc des Hauteurs / 03 GPS (probable);Matière pour des cartes propres redessinées;Données brutes;Probable;À confirmer;Permettraient de produire des cartes vectorielles cohérentes avec la DA
+S12;Downloads/Image 1.png;PNG 7472×3032;18,6 Mo;01 Atrium (probable);Rendu terrasse en toiture haute définition;Très bonne;Probable;Retenu si confirmé;Même scène que « Terrasse en toiture » du PPTX, recadrage différent
+M01;Downloads/Portfolio_Ayate_v2_1.pptx > ppt/media/image-1-1.jpg;Image (média PPTX);2200×1256;Couverture;Fond texturé de couverture (vue Atrium délavée);Bonne;Certaine (légendée dans le PPTX);Décoratif — non repris tel quel;
+M02;Downloads/Portfolio_Ayate_v2_1.pptx > ppt/media/image-2-1.png;Image (média PPTX);1013×1013;Profil;Portrait;Bonne;Certaine (légendée dans le PPTX);À confirmer pour publication web;
+M03;Downloads/Portfolio_Ayate_v2_1.pptx > ppt/media/image-3-1.jpg;Image (média PPTX);2200×1256;01 Atrium;Image d’ouverture (vue aérienne);Bonne;Certaine (légendée dans le PPTX);Doublon exact de image-4-1;
+M04;Downloads/Portfolio_Ayate_v2_1.pptx > ppt/media/image-4-1.jpg;Image (média PPTX);2200×1256;01 Atrium;Image d’ouverture (vue aérienne);Bonne;Certaine (légendée dans le PPTX);Retenu;
+M05;Downloads/Portfolio_Ayate_v2_1.pptx > ppt/media/image-5-1..5-4.png;Image (média PPTX);889×900 ×4;01 Atrium;Genèse en 4 étapes (volume → toiture-promenade);Bonne;Certaine (légendée dans le PPTX);Retenu — séquence clé;
+M06;Downloads/Portfolio_Ayate_v2_1.pptx > ppt/media/image-5-5.png;Image (média PPTX);2200×884;01 Atrium;Façade (élévation);Moyenne (trait pâle);Certaine (légendée dans le PPTX);Retenu, contraste à renforcer;
+M07;Downloads/Portfolio_Ayate_v2_1.pptx > ppt/media/image-6-1.png;Image (média PPTX);939×1800;01 Atrium;Plan RDC (boutiques, atrium, escalators);Bonne — lisible à 100 %;Certaine (légendée dans le PPTX);Retenu (zoomable);
+M08;Downloads/Portfolio_Ayate_v2_1.pptx > ppt/media/image-6-2.png;Image (média PPTX);1372×1800;01 Atrium;Plan niveau supérieur / toiture;Moyenne;Certaine (légendée dans le PPTX);Retenu;
+M09;Downloads/Portfolio_Ayate_v2_1.pptx > ppt/media/image-6-3.png;Image (média PPTX);2200×519;01 Atrium;Coupe transversale (niveaux semi-enterrés, atrium);Bonne;Certaine (légendée dans le PPTX);Retenu — démontre l’usage de la pente;
+M10;Downloads/Portfolio_Ayate_v2_1.pptx > ppt/media/image-6-4.png;Image (média PPTX);730×1200;01 Atrium;Axonométrie éclatée des programmes;Faible résolution;Certaine (légendée dans le PPTX);Retenu, source HD souhaitée;
+M11;Downloads/Portfolio_Ayate_v2_1.pptx > ppt/media/image-7-1.png;Image (média PPTX);1227×694;01 Atrium;Rendu puits de lumière central;Faible résolution;Certaine (légendée dans le PPTX);Source HD souhaitée;
+M12;Downloads/Portfolio_Ayate_v2_1.pptx > ppt/media/image-7-2.jpg;Image (média PPTX);1800×1012;01 Atrium;Rendu toiture-promenade;Bonne;Certaine (légendée dans le PPTX);Retenu;
+M13;Downloads/Portfolio_Ayate_v2_1.pptx > ppt/media/image-7-3.jpg;Image (média PPTX);1800×1012;01 Atrium;Rendu terrasse en toiture;Bonne;Certaine (légendée dans le PPTX);Remplaçable par Image 1.png (HD);
+M14;Downloads/Portfolio_Ayate_v2_1.pptx > ppt/media/image-7-4.png;Image (média PPTX);1800×701;01 Atrium;Rendu cheminement paysager;Bonne;Certaine (légendée dans le PPTX);Retenu;
+M15;Downloads/Portfolio_Ayate_v2_1.pptx > ppt/media/image-8-1.jpg;Image (média PPTX);2200×1247;02 Cherchell;Image d’ouverture (promenade, toiture plissée);Bonne;Certaine (légendée dans le PPTX);Retenu;
+M16;Downloads/Portfolio_Ayate_v2_1.pptx > ppt/media/image-9-1.jpg;Image (média PPTX);2200×326;02 Cherchell;Genèse formelle en 4 étapes;Moyenne (bandeau étroit);Certaine (légendée dans le PPTX);"Retenu ; version du mémoire (page PDF 33) plus lisible";
+M17;Downloads/Portfolio_Ayate_v2_1.pptx > ppt/media/image-9-2.jpg;Image (média PPTX);2200×472;02 Cherchell;Façade frontale nord (aquarellée);Bonne;Certaine (légendée dans le PPTX);Retenu — titre incrusté dans l’image;
+M18;Downloads/Portfolio_Ayate_v2_1.pptx > ppt/media/image-9-3.jpg;Image (média PPTX);2200×1210;02 Cherchell;Plan de masse du quartier portuaire 1/2000;Bonne;Probable;Média orphelin (non affiché) — travail de groupe;
+M19;Downloads/Portfolio_Ayate_v2_1.pptx > ppt/media/image-10-1.jpg;Image (média PPTX);2400×1978;02 Cherchell;Plan RDC 1/200 (auditorium 500 m² lisible);Bonne;Certaine (légendée dans le PPTX);Retenu (zoomable);
+M20;Downloads/Portfolio_Ayate_v2_1.pptx > ppt/media/image-10-2.jpg;Image (média PPTX);2400×854;02 Cherchell;Plan R+1 1/200;Bonne;Certaine (légendée dans le PPTX);Retenu;
+M21;Downloads/Portfolio_Ayate_v2_1.pptx > ppt/media/image-10-3.jpg;Image (média PPTX);2200×83;02 Cherchell;Bandeau fin (résidu de recadrage);Inutilisable;Probable;Média orphelin — écarté;
+M22;Downloads/Portfolio_Ayate_v2_1.pptx > ppt/media/image-10-4.jpg;Image (média PPTX);1800×560;02 Cherchell;Façade latérale droite;Bonne;Certaine (légendée dans le PPTX);Retenu;
+M23;Downloads/Portfolio_Ayate_v2_1.pptx > ppt/media/image-11-1.jpg;Image (média PPTX);2000×1125;02 Cherchell;Rendu criée / auditorium;Bonne;Certaine (légendée dans le PPTX);Retenu;
+M24;Downloads/Portfolio_Ayate_v2_1.pptx > ppt/media/image-11-2.jpg;Image (média PPTX);1920×1080;02 Cherchell;Rendu salle d’exposition;Bonne;Certaine (légendée dans le PPTX);Retenu;
+M25;Downloads/Portfolio_Ayate_v2_1.pptx > ppt/media/image-11-3.jpg;Image (média PPTX);1920×1080;02 Cherchell;Rendu parcours scénographique;Bonne;Certaine (légendée dans le PPTX);Retenu;
+M26;Downloads/Portfolio_Ayate_v2_1.pptx > ppt/media/image-11-4.jpg;Image (média PPTX);1920×1080;02 Cherchell;Rendu poissonnerie (vente au détail);Bonne;Certaine (légendée dans le PPTX);Retenu;
+D01;D:\AYA paneau\panneau soutenance rahim\PANNEAU soutenace.pdf (+ .png);PDF/PNG panneau;12 335×2 781 px · 97 Mo;02 Cherchell;Panneau de soutenance complet (référence de composition);Très bonne;Certaine;Retenu;Confirme GRP 02 et les encadrants
+D02;D:\AYA paneau\…\Dossier graphique\Coupes\Coupe A-A.png, Coupe B-B.png;PNG;8–9 Mo chacune;02 Cherchell;Coupes rendues;Très bonne;Certaine;Retenu;Ne pas confondre avec « Coupe A-A Hakim.psd » et « coupe okba », qui sont d’autres étudiants
+D03;D:\AYA paneau\…\Façades\Façade-nord final.png, Façacde-est final.png;PNG;16 Mo / 5 Mo;02 Cherchell;Façades aquarellées;Très bonne;Certaine;Retenu;
+D04;D:\AYA paneau\…\plans\Plans RDC / R+1 halle a marée-ModelVRAI FINAL.pdf;PDF vectoriel;~0,9 Mo;02 Cherchell;Plans 1/200 (zoomables sans perte);Excellente;Certaine;Retenu;
+D05;D:\AYA paneau\…\plan de masse urbain Rv3.png;PNG;32 Mo;02 Cherchell (groupe);Plan de masse du quartier;Très bonne;Certaine;Retenu — crédit GRP 02;
+D06;D:\AYA paneau\…\Rendu ext lumion\Rendu 3D rahim\intr_12/13/17/18, INTR RH_12–19;JPG;10 fichiers, 4,5–20 Mo;02 Cherchell;Rendus Lumion HD;Très bonne;Certaine;Retenu;
+D07;D:\AYA paneau\…\Rendu ent enscape\*.jpg (9);JPG;~1 Mo chacun;02 Cherchell;Rendus intérieurs (accueil, aquarium, ateliers, poissonnerie);Bonne;Certaine;Retenu;
+D08;"D:\AYA paneau\…\plans\axo.pdf ; Photo ext quartier p\Perception marina.png";PDF/PNG;1 Mo / 11,6 Mo;02 Cherchell;Axonométrie, perception;Bonne;Certaine;À trier;
+D09;D:\Portfolio 05_2026\Atrium center\poster-Récupéré.png;PNG;9 933×14 043 px · 57 Mo;01 Atrium;Poster final : AFOM, concept, genèse en 5 étapes, plans, coupes, axo, rendus;Excellente;Certaine;Retenu — source de vérité P01;Confirme 1 800 m², 24 boutiques/étage, pharmacie
+D10;D:\EPAU 2-SC\atelier 2021\plans finals14-Model*.pdf, pre.coupe1/2.pdf, Plan de masse-Objet.pdf;PDF vectoriel;0,3–1,2 Mo;01 Atrium;Plans, coupes, plan de masse;Excellente;Certaine;Retenu;
+D11;D:\Portfolio 05_2026\Atrium center\Rdc.png, Calque 7.png, R14, R25, principale.jpg, 1–5.png, Image1.png;PNG/JPG;1 053 à 7 048 px;01 Atrium;Plan RDC HD, rendus, genèse 1–5, puits de lumière (1 227 px);Bonne à excellente;Certaine;Retenu;
+D12;D:\EPAU 2-SC\atelier 2021\affichage (1) (1).pptx;PPTX;34 Mo;01 Atrium;Panneaux intermédiaires;—;Certaine;Récupéré, non analysé;
+D13;D:\Portfolio 05_2026\Atrium center\01_09_56.jpg;JPG;3 508×2 480;01 Atrium;Illustration générée par IA (ChatGPT, 29/05/2026);—;Certaine;ÉCARTÉ — image IA;
+D14;D:\EPAU 2-SC\Rappor_AYATE_Abderrahim.pdf;PDF 27 p. (16:9);2,3 Mo;04 Abords de Kouba;Rapport : méthode, 19 figures, délimitation finale;Bonne;Certaine;Retenu;Année 2021/2022
+D15;D:\EPAU 2-SC\POSTER_AYATE_Abderrahim.jpg;JPG;2 384×3 370 px;04 Abords de Kouba;Poster de synthèse;Moyenne;Certaine;Retenu;"Poster daté 2020/2021 (contradiction) ; altitude erronée"
+D16;D:\Portfolio 05_2026\Portfolio inds.pdf;PDF InDesign 5 p.;0,4 Mo;Tous;Ébauche de portfolio (couverture, profil, sommaire);—;Certaine;Référence;Couverture = image IA
+D17;D:\Photo visite cherchell\*.jpg (70) + map.pdf;JPG;17/10/2022;02 Cherchell;Photos de terrain;Bonne;Probable;Candidat (non récupéré);
+D18;D:\Projet_Qgis\Projet_Qgis_DHAU.qgz + couches;QGIS;—;05 Parc des Hauteurs ou 03 GPS;Matière cartographique;—;À confirmer;Candidat (non récupéré);
+X01;D:\bureau26-09\(Hopital TINDOUF, MENIA-APD, hyperbare ain naaja, CTB-A-22, EMH, XF-2021, Presentation HUNAN, khalid, ASMA…);Dossiers;—;BET El-Mouhandes;—;—;Probable;EXCLU — non ouvert;
+X02;"D:\Etude architecture\Rapport de stage 2.pptx ; D:\rahimp\Rapport de stage 2.pptx";PPTX;0,1 Mo;Stage BET probable;—;—;Probable;EXCLU — non ouvert;
